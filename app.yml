@@ -1,8 +1,11 @@
-name: plat3s
-script: server.js
-port: 3000
-env:
-  NODE_ENV: production
-  PORT: 3000
-  HOSTNAME: 0.0.0.0
-node_version: 20
+apps:
+- name: plat3s.com
+  log_date_format: 'YYYY-MM-DD HH:mm:ss Z'
+  cwd: /home/plat3scom/public_html/
+  script: "npm"
+  args: "run start"
+  interpreter: "/usr/bin/node"
+  env:
+   NODE_ENV: "production"
+   NODE_PORT: 3000
+
