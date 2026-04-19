@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[30391,["/_next/static/chunks/0dbhjjzl8qfwv.js","/_next/static/chunks/0w.g1c.esqhi0.js"],"default"]
+3:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"fixed top-0 left-0 right-0 z-50","style":{"padding":"24px 36px"},"children":["$","a",null,{"href":"/","className":"text-white text-3xl tracking-[0.3em] uppercase","style":{"fontFamily":"LandRoverWeb-Bold, sans-serif"},"children":"PLAT3S"}]}],["$","main",null,{"children":["$","$L2",null,{}]}],["$","div",null,{"className":"fixed bottom-6 left-9 z-50","children":["$","a",null,{"href":"https://www.brightdigital.co","target":"_blank","rel":"noopener noreferrer","className":"text-white text-[10px] tracking-wide hover:text-white/70 transition-colors","children":"©2026 brightDigital LLC"}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0w.g1c.esqhi0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lvjgCTTJ9-R4F71RgyDgf"}
+5:null

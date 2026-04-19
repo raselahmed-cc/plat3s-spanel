@@ -9,7 +9,7 @@ node_modules/
 .env.production.local
 
 # Next.js build output
-.next/
+# .next/ — tracked for deployment
 out/
 
 # General build folders
