@@ -1,0 +1,11 @@
+apps:
+- name: plat3s.com
+  log_date_format: 'YYYY-MM-DD HH:mm:ss Z'
+  cwd: /home/plat3scom/public_html/
+  script: "npm"
+  args: "run start"
+  interpreter: "/usr/bin/node"
+  env:
+   NODE_ENV: "production"
+   NODE_PORT: 3000
+
