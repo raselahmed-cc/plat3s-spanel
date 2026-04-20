@@ -2,10 +2,11 @@ apps:
 - name: plat3s.com
   log_date_format: 'YYYY-MM-DD HH:mm:ss Z'
   cwd: /home/plat3scom/public_html/
-  script: "npm"
-  args: "run start"
-  interpreter: "/usr/bin/node"
+  script: "server.js"
+  interpreter: "node"
   env:
    NODE_ENV: "production"
-   NODE_PORT: 3000
+   PORT: 3000
+   HOSTNAME: "0.0.0.0"
+   NEXT_PUBLIC_N8N_WEBHOOK_URL: "https://n8n.brightdigital.co/webhook/plat3s-welcome"
 
